@@ -250,7 +250,7 @@
 }
 
 .\#media-wrapper.\@rounded {
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 .\#media-image {
