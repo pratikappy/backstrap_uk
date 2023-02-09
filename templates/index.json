@@ -176,7 +176,7 @@
           "settings": {
             "span": "6",
             "image": "shopify:\/\/shop_images\/banner-medium-rolling-trays.jpg",
-            "image_size": "large",
+            "image_size": "original",
             "mobile_image_size": "large",
             "overlay": 0,
             "title": "Gallery Title",
