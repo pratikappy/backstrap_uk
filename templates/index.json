@@ -108,7 +108,7 @@
           "type": "gallery_image",
           "settings": {
             "span": "6",
-            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-12-21_at_09.29.34_1.jpg",
+            "image": "shopify:\/\/shop_images\/banner-medium-smoking-kits.jpg",
             "image_size": "original",
             "mobile_image": "shopify:\/\/shop_images\/Background_2.png",
             "mobile_image_size": "full",
@@ -153,6 +153,7 @@
           "type": "gallery_image",
           "settings": {
             "span": "6",
+            "image": "shopify:\/\/shop_images\/banner-medium-cannapuks.jpg",
             "image_size": "large",
             "mobile_image_size": "large",
             "overlay": 0,
@@ -174,6 +175,7 @@
           "type": "gallery_image",
           "settings": {
             "span": "6",
+            "image": "shopify:\/\/shop_images\/banner-medium-rolling-trays.jpg",
             "image_size": "large",
             "mobile_image_size": "large",
             "overlay": 0,
