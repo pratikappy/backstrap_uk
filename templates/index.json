@@ -154,9 +154,9 @@
           "settings": {
             "span": "6",
             "image": "shopify:\/\/shop_images\/banner-medium-cannapuks.jpg",
-            "image_size": "full",
+            "image_size": "original",
             "mobile_image_size": "large",
-            "overlay": 0,
+            "overlay": 15,
             "title": "Gallery Title",
             "subtitle": "<p>Gallery Subtitle<\/p>",
             "color_scheme": "invert",
