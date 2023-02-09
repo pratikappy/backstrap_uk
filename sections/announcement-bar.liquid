@@ -1,0 +1,73 @@
+{{ 'announcement-bar.css' | asset_url | stylesheet_tag }}
+
+{%- if section.settings.display and section.settings.text != blank -%}
+  {%- assign dismissible = section.settings.dismissible -%}
+  {%- assign announcement_link = section.settings.url -%}
+  {%- capture dismiss_btn -%}
+      {%- if dismissible -%}
+        <button class="#announcement-bar-dismiss" data-dismiss>
+          {% render 'icon' name: 'x' %}
+        </button>
+      {%- endif -%}
+    {%- endcapture -%}
+  <announcement-bar   
+    {% if dismissible %}dismissible {% unless request.design_mode %}hidden{% endunless %}{% endif %}
+    class="#announcement-bar"
+    style="--announcement-bar-color-text: {{ section.settings.text_color }}; --announcement-bar-color-background: {{ section.settings.bg_color }};"
+  >
+    {%- if section.settings.url != blank -%}
+      <a href="{{ announcement_link }}" class="stretched-link"></a>
+    {%- endif -%}
+    <p class="#announcement-bar-text">
+      {{ section.settings.text }}
+    </p>
+    {{ dismiss_btn }}
+  </announcement-bar>
+  {%- if dismissible -%}
+    <script type="module" src="{{ 'announcement-bar.js' | asset_url }}"></script> 
+  {%- endif -%}
+{%- endif -%}
+
+
+{% schema %}
+  {
+    "name": "Announcement bar",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "display",
+        "label": "Enable bar",
+        "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "dismissible",
+        "label": "Show close button",
+        "default": true
+      },
+      {
+        "type": "color",
+        "id": "text_color",
+        "label": "Text",
+        "default": "#fbcf00"
+      },
+      {
+        "type": "color",
+        "id": "bg_color",
+        "label": "Background",
+        "default": "#232734"
+      },
+      {
+        "type": "text",
+        "id": "text",
+        "label": "Text",
+        "default": "Free shipping over $50"
+      },
+      {
+        "type": "url",
+        "id": "url",
+        "label": "Link"
+      }
+    ]
+  }
+{% endschema %}
