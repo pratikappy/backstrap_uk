@@ -242,11 +242,11 @@
 }
 
 .\#media.\@rounded {
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 .\#media.\@rounded .\#media-image {
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 .\#media-wrapper.\@rounded {
