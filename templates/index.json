@@ -299,7 +299,7 @@
         "subtitle": "",
         "collection": "",
         "color_scheme": "default",
-        "columns": 5,
+        "columns": 3,
         "rows": 1,
         "gutter": "md",
         "swipe_on_mobile": true,
