@@ -421,12 +421,6 @@
     "1637156555fba26817": {
       "type": "newsletter",
       "blocks": {
-        "16371565554fbd4dac-1": {
-          "type": "text",
-          "settings": {
-            "text": "STAY IN THE LOOP"
-          }
-        },
         "b3ecda4d-d349-4177-8cca-03813574c969": {
           "type": "text",
           "settings": {
@@ -439,6 +433,12 @@
             "heading": "BACKSTRAP"
           }
         },
+        "16371565554fbd4dac-1": {
+          "type": "text",
+          "settings": {
+            "text": "STAY IN THE LOOP"
+          }
+        },
         "16371565554fbd4dac-2": {
           "type": "newsletter_form",
           "settings": {
@@ -449,9 +449,9 @@
         }
       },
       "block_order": [
-        "16371565554fbd4dac-1",
         "b3ecda4d-d349-4177-8cca-03813574c969",
         "16371565554fbd4dac-0",
+        "16371565554fbd4dac-1",
         "16371565554fbd4dac-2"
       ],
       "settings": {
