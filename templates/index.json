@@ -306,6 +306,43 @@
         "section_button": "Shop All"
       }
     },
+    "f0ffd0a8-6020-4480-90b4-296490d18111": {
+      "type": "hero-image",
+      "blocks": {
+        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ROLE BETTER, ROLL BACKWARDS"
+          }
+        },
+        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-2": {
+          "type": "buttons",
+          "settings": {
+            "button": "",
+            "button_link": "",
+            "button_style": "default",
+            "button_show_arrow": true,
+            "secondary_button": "",
+            "secondary_button_link": "",
+            "secondary_button_style": "default",
+            "secondary_button_show_arrow": true
+          }
+        }
+      },
+      "block_order": [
+        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-0",
+        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/home-bg-placeholder-1.jpg",
+        "image_size": "16x9",
+        "mobile_size": "9x16",
+        "overlay": 0,
+        "text_size": "md",
+        "text_position": "center-center",
+        "color_scheme": "invert"
+      }
+    },
     "16371565156a529cad": {
       "type": "testimonials",
       "blocks": {
@@ -458,43 +495,6 @@
         "text_position": "center-center",
         "color_scheme": "invert"
       }
-    },
-    "f0ffd0a8-6020-4480-90b4-296490d18111": {
-      "type": "hero-image",
-      "blocks": {
-        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ROLE BETTER, ROLL BACKWARDS"
-          }
-        },
-        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-2": {
-          "type": "buttons",
-          "settings": {
-            "button": "",
-            "button_link": "",
-            "button_style": "default",
-            "button_show_arrow": true,
-            "secondary_button": "",
-            "secondary_button_link": "",
-            "secondary_button_style": "default",
-            "secondary_button_show_arrow": true
-          }
-        }
-      },
-      "block_order": [
-        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-0",
-        "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/home-bg-placeholder-1.jpg",
-        "image_size": "16x9",
-        "mobile_size": "9x16",
-        "overlay": 0,
-        "text_size": "md",
-        "text_position": "center-center",
-        "color_scheme": "invert"
-      }
     }
   },
   "order": [
@@ -504,10 +504,10 @@
     "16371564758217e773",
     "16371563135a329e27",
     "1637156418dc83c366",
+    "f0ffd0a8-6020-4480-90b4-296490d18111",
     "16371565156a529cad",
     "1637156525e547728a",
     "163715652923809d9e",
-    "1637156555fba26817",
-    "f0ffd0a8-6020-4480-90b4-296490d18111"
+    "1637156555fba26817"
   ]
 }
