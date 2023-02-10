@@ -242,15 +242,15 @@
 }
 
 .\#media.\@rounded {
-    border-radius: 0%;
+    border-radius: 50%;
 }
 
 .\#media.\@rounded .\#media-image {
-    border-radius: 0%;
+    border-radius: 50%;
 }
 
 .\#media-wrapper.\@rounded {
-    border-radius: 0%;
+    border-radius: 50%;
 }
 
 .\#media-image {
