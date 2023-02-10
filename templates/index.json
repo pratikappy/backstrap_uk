@@ -400,46 +400,6 @@
         "section_button_link": ""
       }
     },
-    "1637156525e547728a": {
-      "type": "map",
-      "blocks": {
-        "1637156525ed8162ab-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "1637156525ed8162ab-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>"
-          }
-        },
-        "1637156525ed8162ab-2": {
-          "type": "buttons",
-          "settings": {
-            "button": "Get directions",
-            "button_style": "default",
-            "button_show_arrow": true
-          }
-        }
-      },
-      "block_order": [
-        "1637156525ed8162ab-0",
-        "1637156525ed8162ab-1",
-        "1637156525ed8162ab-2"
-      ],
-      "settings": {
-        "map_display": "map_right",
-        "image_size": "large",
-        "text_size": "sm",
-        "color_scheme": "default",
-        "map_api_key": "",
-        "map_address": "",
-        "map_style": "default",
-        "map_marker_color": "#ff0000"
-      }
-    },
     "163715652923809d9e": {
       "type": "featured-blog",
       "settings": {
@@ -506,7 +466,6 @@
     "1637156418dc83c366",
     "f0ffd0a8-6020-4480-90b4-296490d18111",
     "16371565156a529cad",
-    "1637156525e547728a",
     "163715652923809d9e",
     "1637156555fba26817"
   ]
