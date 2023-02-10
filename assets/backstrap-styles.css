@@ -12,6 +12,6 @@
 }
 
 
-.test:first-child{
+.test :first-child{
     width:100%;
 }
