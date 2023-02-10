@@ -427,6 +427,12 @@
             "text": "STAY IN THE LOOP"
           }
         },
+        "b3ecda4d-d349-4177-8cca-03813574c969": {
+          "type": "text",
+          "settings": {
+            "text": "STAY IN THE LOOP"
+          }
+        },
         "16371565554fbd4dac-0": {
           "type": "heading",
           "settings": {
@@ -444,6 +450,7 @@
       },
       "block_order": [
         "16371565554fbd4dac-1",
+        "b3ecda4d-d349-4177-8cca-03813574c969",
         "16371565554fbd4dac-0",
         "16371565554fbd4dac-2"
       ],
