@@ -286,7 +286,7 @@
         "gutter": "lg",
         "text_align": "center",
         "image_size": "square",
-        "hover_zoom": true,
+        "hover_zoom": false,
         "swipe_on_mobile": true,
         "show_section_button": false,
         "section_button": "All Collections"
