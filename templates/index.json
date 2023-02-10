@@ -336,7 +336,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/home-bg-placeholder-1.jpg",
         "image_size": "16x9",
-        "mobile_size": "9x16",
+        "mobile_size": "medium",
         "overlay": 0,
         "text_size": "md",
         "text_position": "center-center",
