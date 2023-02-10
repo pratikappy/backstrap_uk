@@ -312,39 +312,17 @@
         "1637156491e58a6547-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "1637156491e58a6547-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>"
-          }
-        },
-        "1637156491e58a6547-2": {
-          "type": "buttons",
-          "settings": {
-            "button": "Shop Now",
-            "button_link": "",
-            "button_style": "default",
-            "button_show_arrow": true,
-            "button_popup": false,
-            "secondary_button": "",
-            "secondary_button_link": "",
-            "secondary_button_style": "default",
-            "secondary_button_show_arrow": true,
-            "secondary_button_popup": false
+            "heading": "Roll better roll bacakwards"
           }
         }
       },
       "block_order": [
-        "1637156491e58a6547-0",
-        "1637156491e58a6547-1",
-        "1637156491e58a6547-2"
+        "1637156491e58a6547-0"
       ],
       "settings": {
         "bg_type": "video",
-        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "",
+        "image": "shopify:\/\/shop_images\/home-bg-placeholder-1.jpg",
         "mp4_video": "",
         "size": "21x9",
         "overlay": 45,
