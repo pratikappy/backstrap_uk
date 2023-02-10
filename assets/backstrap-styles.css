@@ -10,3 +10,8 @@
     margin: 1em auto;
     
 }
+
+
+.test:first-child{
+    width:100%;
+}
