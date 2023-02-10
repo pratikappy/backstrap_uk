@@ -443,8 +443,8 @@
           "type": "newsletter_form",
           "settings": {
             "button_show_arrow": true,
-            "button_custom_text": "",
-            "custom_placeholder_text": ""
+            "button_custom_text": "shop now",
+            "custom_placeholder_text": "Email address"
           }
         }
       },
