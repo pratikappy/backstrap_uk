@@ -12,6 +12,6 @@
 }
 
 
-.test :first-child{
-/*     width:100%; */
+.test > .\#hero{
+    width:100%;
 }
