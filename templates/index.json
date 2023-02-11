@@ -7,7 +7,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/home-banner-bg-1.jpg",
-            "overlay": 30,
+            "overlay": 75,
             "heading": "Papers",
             "text": "Give customers details about the banner",
             "link": ""
@@ -17,7 +17,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-12-21_at_09.29.53_1.jpg",
-            "overlay": 30,
+            "overlay": 10,
             "heading": "Products",
             "text": "Give customers details about the banner",
             "link": ""
