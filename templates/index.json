@@ -458,7 +458,7 @@
         "image": "shopify:\/\/shop_images\/home-banner-bg-1.jpg",
         "image_size": "21x9",
         "image_mobile_size": "9x16",
-        "overlay": 0,
+        "overlay": 80,
         "text_size": "md",
         "text_position": "center-center",
         "color_scheme": "invert"
