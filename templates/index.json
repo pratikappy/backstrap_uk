@@ -16,8 +16,8 @@
         "1058c1e1-7a8f-429a-8a0b-3dbaf546a070": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-12-21_at_09.29.53_1.jpg",
-            "overlay": 10,
+            "image": "shopify:\/\/shop_images\/home-banner-bg-2.jpg",
+            "overlay": 20,
             "heading": "Products",
             "text": "Give customers details about the banner",
             "link": ""
