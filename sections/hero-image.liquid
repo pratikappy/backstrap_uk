@@ -1,6 +1,7 @@
 {%- assign position = section.settings.text_position | split: '-' -%}
 {%- assign text_y = position[0] -%}
 {%- assign text_x = position[1] -%}
+{%- assign class = section.settings.class  -%}}
 
 {% capture Hero_Text %}
     {% render 'hero',
@@ -19,7 +20,8 @@
         x: text_x,
         y: text_y,
         padded: true,
-        absolute: true
+        absolute: true,
+         
     %}
 {% endcapture %}
 
