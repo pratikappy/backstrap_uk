@@ -500,7 +500,7 @@
         "template--17955356115260__bc069725-be75-4f9f-b834-9a069b2b095d-16762689886147a240-2"
       ],
       "settings": {
-        "class": "",
+        "class": "class-two",
         "image_size": "16x9",
         "mobile_size": "9x16",
         "overlay": 0,
