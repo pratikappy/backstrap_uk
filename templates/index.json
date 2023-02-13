@@ -334,7 +334,7 @@
         "template--17955356115260__f0ffd0a8-6020-4480-90b4-296490d18111-16760229573cd4173f-2"
       ],
       "settings": {
-        "class": "",
+        "class": "hero-banner",
         "image": "shopify:\/\/shop_images\/home-bg-placeholder-1.jpg",
         "image_size": "16x9",
         "mobile_size": "medium",
